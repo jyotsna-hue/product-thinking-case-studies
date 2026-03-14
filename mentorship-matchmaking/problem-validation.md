@@ -19,6 +19,8 @@ The survey focused on:
 
 ### Difficulty Finding Alumni Mentors
 
+![Difficulty Students Face Finding Alumni Mentors](assets/Survey-difficulty-chart.png)
+
 | Response | Students | Percentage |
 |--------|--------|--------|
 | Very difficult | 21 | 42% |
@@ -27,6 +29,8 @@ The survey focused on:
 | Easy | 4 | 8% |
 
 ### Current Outreach Methods
+
+![Current Outreach Methods](assets/outreach-methods-chart.png)
 
 | Method | Students | Percentage |
 |------|------|------|
@@ -53,9 +57,3 @@ The survey focused on:
 ## Insight
 
 The primary friction is **mentor discovery**, not willingness to seek mentorship.
-
-Students are actively trying to connect with alumni but lack an efficient way to identify the right mentors.
-
-## Conclusion
-
-The survey results suggest a clear opportunity to design a product that simplifies alumni mentor discovery and improves mentorship access during placements.
