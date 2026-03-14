@@ -12,6 +12,12 @@ The prototype explores a **swipe-based discovery interface**, similar to dating 
 
 Instead of searching through alumni lists or LinkedIn, students can discover mentors through a guided interface.
 
+## Product Flow
+
+![Prototype Flow](assets/prototype-flow.png)
+
+This flow illustrates how students would discover mentors, view mentor profiles, and send mentorship requests through the platform.
+
 ## Core Flow
 
 1. Student opens the mentorship platform
