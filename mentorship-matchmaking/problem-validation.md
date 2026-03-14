@@ -19,8 +19,6 @@ The survey focused on:
 
 ### Difficulty Finding Alumni Mentors
 
-![Difficulty Students Face Finding Alumni Mentors](assets/Survey-difficulty-chart.png)
-
 | Response | Students | Percentage |
 |--------|--------|--------|
 | Very difficult | 21 | 42% |
@@ -29,8 +27,6 @@ The survey focused on:
 | Easy | 4 | 8% |
 
 ### Current Outreach Methods
-
-![Current Outreach Methods](assets/outreach-methods-chart.png)
 
 | Method | Students | Percentage |
 |------|------|------|
@@ -56,4 +52,4 @@ The survey focused on:
 
 ## Insight
 
-The primary friction is **mentor discovery**, not willingness to seek mentorship.
+The primary friction is **mentor discovery**, not willingness to seek mentorship.this is what i orginally have for problem validation now tell me wehre to keep thid img
