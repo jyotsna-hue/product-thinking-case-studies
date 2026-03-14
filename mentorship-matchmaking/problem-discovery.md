@@ -20,6 +20,18 @@ These approaches often lead to low response rates and inefficient discovery.
 
 Students preparing for placements struggle to discover and connect with relevant alumni mentors who can provide timely guidance.
 
+## Current Student Journey
+
+![Student Journey](assets/student-journey.png)
+
+The current process of discovering mentors involves several fragmented steps and often results in frustration due to low response rates.
+
+## Opportunity Solution Tree
+
+![Opportunity Solution Tree](assets/opportunity-solution-tree.png)
+
+The opportunity solution tree maps potential ways to address the problem of mentorship discovery.
+
 ## Why This Matters
 
 Mentorship during placements can significantly impact preparation quality and confidence.
