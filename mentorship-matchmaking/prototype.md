@@ -25,6 +25,10 @@ This flow illustrates how students would discover mentors, view mentor profiles,
 3. Students swipe through profiles based on relevance
 4. When a student expresses interest, they can send a mentorship request
 
+## Interface Exploration
+
+![Mentorship Prototype Screens](assets/prototype-wireframe-flow.png)
+
 ## Mentor Profile Information
 
 Each mentor card would include:
