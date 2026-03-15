@@ -1,48 +1,9 @@
-# Mindful Spending Behavior
+# Spendception – Mindful Digital Spending
 
-## Overview
-This project explores how digital products can encourage more mindful spending behavior among young adults.
+Spendception is an intelligent financial perception platform designed to understand, interpret, and influence spending behavior in real time.
 
-While budgeting apps exist, many users abandon them quickly because they focus heavily on tracking expenses rather than influencing spending decisions.
+Instead of helping users analyze spending after transactions occur, the system introduces behavioral nudges and contextual awareness during the payment process.
 
-This case study explores how behavioral nudges and contextual insights could help users become more aware of spending habits.
+The platform is designed to integrate with existing UPI applications such as Google Pay and PhonePe without disrupting their payment flows.
 
----
-
-## Problem
-
-Many young adults struggle with impulsive spending despite having access to budgeting tools.
-
-Traditional finance apps focus on tracking past spending but rarely influence decisions at the moment of purchase.
-
-**How might we design a product experience that encourages more mindful spending behavior?**
-
----
-
-## Approach
-
-• Studied common spending behaviors among young adults  
-• Identified limitations in traditional budgeting apps  
-• Explored behavioral nudges during payment decisions  
-
----
-
-## Key Decisions
-
-### Nudge Instead of Restrict
-Rather than blocking transactions, the product encourages reflection before spending.
-
-### Contextual Insights
-Spending insights appear during the transaction moment instead of only in reports.
-
----
-
-## Outcome
-
-The concept demonstrates how small behavioral nudges can improve spending awareness without adding friction.
-
----
-
-## Learnings
-
-Many financial tools fail not because users lack financial data but because they lack timely insights during spending decisions.
+This case study explores how behavioral insights, AI assistance, and real-time spending awareness can help users make more mindful financial decisions.
